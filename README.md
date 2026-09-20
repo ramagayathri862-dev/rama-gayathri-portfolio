@@ -164,14 +164,5 @@ KL University, Hyderabad
 ### 🔗 Connect With Me
 
 * **GitHub:** `https://github.com/ramagayathri862-dev`
-* **LinkedIn:** Add your LinkedIn profile here
+* **LinkedIn:** Rama Gayathri Gudapureddy
 
-## ⭐ Support
-
-If you find this portfolio useful or interesting, consider giving the repository a ⭐ on GitHub!
-
----
-
-### 📜 License
-
-This project is created for personal portfolio and educational purposes.
